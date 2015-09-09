@@ -1,5 +1,5 @@
 ---
-language: go
+language: c
 sudo: required
 services: docker
 matrix:
